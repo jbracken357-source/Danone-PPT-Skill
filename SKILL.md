@@ -105,5 +105,7 @@ source file was not touched.
 - `scripts/install_fonts.py`, `scripts/qa_checklist.md`,
   `scripts/make_white_logo.js` (regenerates the white PNG; needs `sharp`)
 - Real corporate templates (source of every value):
-  `D:/Coding Playground/shida-danone-ppt-skill/Danone Real Templates/`
+  `D:/Coding Playground/danone-real-templates/` (local only, not in this repo)
   (contact sheet: `rendered/standard-contact-sheet.jpg`)
+- Old versions of this skill are archived in
+  `D:/Coding Playground/archives/2026-10-23-danone-ppt-legacy/`. Do not use them.

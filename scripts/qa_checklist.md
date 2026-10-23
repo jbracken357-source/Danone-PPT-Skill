@@ -2,7 +2,7 @@
 
 Read the rendered slide PNGs (60–100 dpi via LibreOffice → pdftoppm) and check
 each applicable rule. Every finding = slide + location + what is wrong.
-Reference look: `Danone Real Templates/rendered/standard-contact-sheet.jpg`.
+Reference look: `D:/Coding Playground/danone-real-templates/rendered/standard-contact-sheet.jpg`.
 
 1. Cover & closing: whole background solid #005EB8 (no photo, gradient or seam).
    One LARGE white circle that touches/bleeds off the top and bottom edges.
